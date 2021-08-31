@@ -1,0 +1,13 @@
+[{"name":"Moana","type":"woman", "img_url":"https://i.imgur.com/8mKuQN7.png"},
+{"name":"Mickey","type":"mouse", "img_url":"https://i.imgur.com/NL0Cvzg.png"},
+{"name":"Minnie","type":"mouse", "img_url":"https://i.imgur.com/wEZKpJm.jpg"},
+{"name":"Baby Yoda","type":"grogu", "img_url":"https://i.imgur.com/tV8u3uP.jpg"},
+{"name":"Ariel","type":"mermaid", "img_url":"https://i.imgur.com/g4QXQhK.jpg"},
+{"name":"Belle","type":"woman", "img_url":"https://i.imgur.com/ul8PbZG.png"},
+{"name":"Tiana","type":"woman", "img_url":"https://i.imgur.com/TZijGzr.jpg"},
+{"name":"Elsa","type":"coldwoman", "img_url":"https://i.imgur.com/A8QC6Pz.jpg"},
+{"name":"Mulan","type":"woman", "img_url":"https://i.imgur.com/6aqth9Y.png"},
+{"name":"Jasmine","type":"woman", "img_url":"https://i.imgur.com/tOptfG2.jpg"},
+{"name":"Pocahontas","type":"woman", "img_url":"https://i.imgur.com/1llNRjC.png"},
+{"name":"Cinderella","type":"woman", "img_url":"https://i.imgur.com/udIH35A.png"},
+{"name":"Simba","type":"lion", "img_url":"https://i.imgur.com/AxTkbpj.jpg"}]
